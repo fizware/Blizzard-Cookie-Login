@@ -1,0 +1,20 @@
+.cookie-login-button {
+    height: 50px;
+    width: 300px;
+}
+
+.cookie-box {
+    width: 300px;
+}
+
+.login-div {
+    position: relative;
+    margin-top: 10px;
+}
+
+.center-div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
